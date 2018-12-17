@@ -1,2 +1,3 @@
 # tic-tac-toa
-tic tac toa game in python
+PL1 vs PL2
+PL VS CPU
